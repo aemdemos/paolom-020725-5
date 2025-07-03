@@ -1,0 +1,38 @@
+{
+  "originUrl": "https://lace-posts-52858076.figma.site",
+  "lastCrawled": "https://lace-posts-52858076.figma.site/",
+  "urls": [
+    {
+      "url": "https://lace-posts-52858076.figma.site/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "902dc5a0550f86e7976462fbf0751f84359e2262"
+    },
+    {
+      "url": "https://lace-posts-52858076.figma.site/booking",
+      "source": "SITEMAPS",
+      "targetPath": "/booking",
+      "id": "cff188ba50edd578f1fbb1dfd5c7b46e3786d788"
+    },
+    {
+      "url": "https://lace-posts-52858076.figma.site/services",
+      "source": "SITEMAPS",
+      "targetPath": "/services",
+      "id": "8a2eaf0d37f89b8d111594469adfdb4b84cfcd6a"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": []
+}
